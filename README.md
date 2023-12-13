@@ -5,4 +5,4 @@
 ![](https://media.giphy.com/media/xUPGcy1SP080IEoMkE/giphy.gif)
 
 ### Skills:
-🐍 The ability to tame naughty code snakes
+🐍 To tame naughty code snakes
